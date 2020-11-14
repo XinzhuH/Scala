@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c415a7df-7f29-430a-8a06-ccaff4f74df6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kIVduclcy6XROxZy1v5cS8Pagp" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebCrawler" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.neu.coe.csye7200.asstwc.WebCrawler" />
+      <module name="WebCrawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.coe.csye7200.asstwc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebCrawler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="WebCrawler" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="assignment-web-crawler [file:/C:/Users/xinzh/Documents/CSYE%207200/Web%20Crawler/assignment-web-crawler/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="WebCrawler-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1856832654" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Assignment3/assignment-movie-database" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Assignment4/assignment-random-state" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Assignment5/assignment-functional-composition" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200/assignment-helloworld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200/assignment-lazy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200/assignment-movie-database" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../CSYE7200" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../CSYE7200/assignment-helloworld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../CSYE7200/assignment-lazy" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/CSYE7200-master/assignment-helloworld" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/CSYE7200-master/assignment-lazy" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/CSYE7200-master/assignment-movie-database" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c415a7df-7f29-430a-8a06-ccaff4f74df6" name="Default Changelist" comment="" />
+      <created>1605388182410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605388182410</updated>
+      <workItem from="1605388185147" duration="5106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
